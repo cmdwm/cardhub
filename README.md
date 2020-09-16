@@ -1,4 +1,5 @@
 ![CardHub](https://i.imgur.com/Ia5Itrk.png)
+---
 Simple but good looking GitHub stat cards.
 
 ## How to Use
@@ -27,7 +28,7 @@ Markdown Example:
 
 ### Final Result
 
-[![GitHub](https://cardhub.willm.xyz/info?user=whasonyt&bio=no)](https://github.com/whasonyt)
+![Example](https://cardhub.willm.xyz/info?user=whasonyt&bio=no)
 
 ---
 
