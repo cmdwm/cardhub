@@ -16,7 +16,7 @@ HTML Example:
 
 ```html
 <a href="https://github.com/whasonyt">
-  <img src="https://example.com/info?user=whasonyt&bio=no" />
+  <img src="https://example.com/info?user=whasonyt&bio=yes" />
 </a>
 ```
 
@@ -26,10 +26,12 @@ Markdown Example:
 [![GitHub](https://example.com/info?user=whasonyt&bio=no)](https://github.com/whasonyt)
 ```
 
-### Final Result
+### Final Result (without bio)
 
 ![Example](https://i.imgur.com/MSFH8En.png)
+### Final Result (with bio)
 
+![Example](https://i.imgur.com/pPHd51M.png)
 ---
 
 ## Hosting Your Own
